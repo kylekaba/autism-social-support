@@ -74,16 +74,8 @@ python3 main.py
 ### How to Use
 
 1. **Start Session**: Click "Start Session" button
-2. **Enter Child Profile**: Provide information about the child:
-   - Age
-   - Autism level (e.g., Level 1, Level 2, Level 3)
-   - Communication capabilities
-3. **Begin Conversation**: The application will:
-   - Show live video from webcam
-   - Display detected emotions as large emoticons
-   - Transcribe spoken words
-4. **Get Response Suggestions**: Click "Suggest Response" when the child needs help formulating a response
-5. **Stop Session**: Click "Stop Session" when finished
+2. **Get Response Suggestions**: Click "Suggest Response" when the child needs help formulating a response
+3. **Stop Session**: Click "Stop Session" when finished
 
 ## System Components
 
