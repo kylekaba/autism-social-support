@@ -1,0 +1,19 @@
+# Core dependencies for Autism Social Support Application
+
+# OpenAI integration
+openai>=1.0.0
+
+# Audio/Video processing
+opencv-python>=4.8.0
+SpeechRecognition>=3.10.0
+
+# GUI
+Pillow>=10.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Facial expression recognition
+# Using FER library (simpler and more reliable than py-feat)
+fer
+tensorflow
